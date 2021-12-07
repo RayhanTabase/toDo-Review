@@ -2,7 +2,7 @@
 
 # To-Do List
 
-> A minimalist to-do list app taking advantage of webpack 
+> "TO DO LIST" is a simple website that displays a list of to do activities and allows you to add and remove activities from the list. In order to achieve this project i wrote some of function definitions using ES6 and webpack technology and applied html, css and JavaScript best practices.
 
 ## Live Demo
 
